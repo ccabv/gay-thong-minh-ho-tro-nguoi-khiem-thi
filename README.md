@@ -1,4 +1,4 @@
-# 🦯 GẬY THÔNG MINH HỖ TRỢ NGƯỜI KHIẾM THỊ & NGƯỜI GIÀ
+# 🦯 GẬY THÔNG MINH HỖ TRỢ NGƯỜI KHIẾM THỊ 
 
 ## 🏆 THÀNH TÍCH NỔI BẬT
 - 🥉 **Giải Ba – Cuộc thi Sáng tạo Thanh thiếu niên, Nhi đồng tỉnh Quảng Trị**
