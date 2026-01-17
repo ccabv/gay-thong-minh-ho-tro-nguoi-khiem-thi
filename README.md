@@ -126,5 +126,30 @@ Trong khi đó, các sản phẩm hiện nay:
 
 ---
 
-## ❤️ Lời cảm ơn
-Xin chân thành cảm ơn thầy cô, gia đình và bạn bè đã hỗ trợ, góp ý để dự án được hoàn thiện và đạt được các thành tích trên.
+## 📚 Tài liệu tham khảo
+
+1. Arduino.  
+   *Arduino Uno Rev3 – Official Documentation*.  
+   https://www.arduino.cc/reference/en/
+
+2. Espressif Systems.  
+   *ESP8266 Technical Reference*.  
+   https://www.espressif.com/en/products/socs/esp8266
+
+3. SparkFun Electronics.  
+   *HC-SR04 Ultrasonic Sensor Datasheet*.  
+   https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
+
+4. u-blox.  
+   *NEO-6 GPS Modules – Data Sheet*.  
+   https://content.u-blox.com/sites/default/files/NEO-6_DataSheet.pdf
+
+5. Telegram.  
+   *Telegram Bot API Documentation*.  
+   https://core.telegram.org/bots/api
+
+6. DFRobot.  
+   *DFPlayer Mini MP3 Player Module Wiki*.  
+   https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
+
+
